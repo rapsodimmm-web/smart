@@ -7,14 +7,6 @@ https://live.glturk.workers.dev/?ID=https://www.showturk.com.tr/canli-yayin
 https://live.glturk.workers.dev/?ID=https://www.showmax.com.tr/canliyayin
 #EXTINF:0,KANALD
 https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/canli-yayin
-#EXTINF:0,KANALD DIZI UZAK SEHIR SON BOLUM
-https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/uzak-sehir/bolumler/uzak-sehir-son-bolum
-#EXTINF:0,KANALD DIZI ESREF RUYA SON BOLUM
-https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/esref-ruya/bolumler/son-bolum
-#EXTINF:0,KANALD DIZI GULLER VE GUNAHLAR SON BOLUM
-https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/guller-ve-gunahlar/bolumler/guller-ve-gunahlar-son-bolum
-#EXTINF:0,KANALD DIZI INCI TANELERI SON BOLUM
-https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/inci-taneleri/bolumler/inci-taneleri-son-bolum
 #EXTINF:0,TEVE2
 https://live.glturk.workers.dev/?ID=https://www.tv2.com.tr/canli-yayin
 #EXTINF:0,TV8
@@ -29,6 +21,8 @@ https://live.glturk.workers.dev/?ID=https://www.tlctv.com.tr/canli-izle
 https://live.glturk.workers.dev/?ID=https://puhutv.com/star-tv-canli-yayin
 #EXTINF:0,STARTV AVRUPA
 https://live.glturk.workers.dev/?ID=https://www.eurostartv.com.tr/canli-izle
+#EXTINF:0,STARTV DIZI SAHIPSIZLER 46.BOLUM
+https://star.dtplay.workers.dev/?ID=sahipsizler/bolumler/46-bolum
 #EXTINF:0,NTV
 https://live.glturk.workers.dev/?ID=https://puhutv.com/ntv-canli-yayin
 #EXTINF:0,KRAL POP
@@ -64,4 +58,5 @@ https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/po
 #EXTINF:0,PowerTürk Taptaze TV
 https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powerturktaptazetv/
 #EXTINF:0,DreamTürk
+
 https://live.glturk.workers.dev/?ID=https://www.dreamturk.com.tr/actions/content/media/566ab958980ea810b4658d96
