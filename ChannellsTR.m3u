@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0,SHOW
+https://live.glturk.workers.dev/?ID=https://www.showtv.com.tr/canli-yayin
+#EXTINF:0,SHOWTURK
+https://live.glturk.workers.dev/?ID=https://www.showturk.com.tr/canli-yayin
+#EXTINF:0,SHOWMAX
+https://live.glturk.workers.dev/?ID=https://www.showmax.com.tr/canliyayin
+#EXTINF:0,KANALD
+https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/canli-yayin
+#EXTINF:0,KANALD DIZI UZAK SEHIR SON BOLUM
+https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/uzak-sehir/bolumler/uzak-sehir-son-bolum
+#EXTINF:0,KANALD DIZI ESREF RUYA SON BOLUM
+https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/esref-ruya/bolumler/son-bolum
+#EXTINF:0,KANALD DIZI GULLER VE GUNAHLAR SON BOLUM
+https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/guller-ve-gunahlar/bolumler/guller-ve-gunahlar-son-bolum
+#EXTINF:0,KANALD DIZI INCI TANELERI SON BOLUM
+https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/inci-taneleri/bolumler/inci-taneleri-son-bolum
+#EXTINF:0,TEVE2
+https://live.glturk.workers.dev/?ID=https://www.tv2.com.tr/canli-yayin
+#EXTINF:0,TV8
+https://live.glturk.workers.dev/?ID=https://www.tv8.com.tr/canli-yayin
+#EXTINF:0,HABERTURK
+https://live.glturk.workers.dev/?ID=https://www.haberturk.com/canliyayin
+#EXTINF:0,DMAX
+https://live.glturk.workers.dev/?ID=https://www.dmax.com.tr/canli-izle
+#EXTINF:0,TLC
+https://live.glturk.workers.dev/?ID=https://www.tlctv.com.tr/canli-izle
+#EXTINF:0,STAR
+https://live.glturk.workers.dev/?ID=https://puhutv.com/star-tv-canli-yayin
+#EXTINF:0,STARTV AVRUPA
+https://live.glturk.workers.dev/?ID=https://www.eurostartv.com.tr/canli-izle
+#EXTINF:0,NTV
+https://live.glturk.workers.dev/?ID=https://puhutv.com/ntv-canli-yayin
+#EXTINF:0,KRAL POP
+https://live.glturk.workers.dev/?ID=https://puhutv.com/kral-pop-tv-canli-yayin
+#EXTINF:0,NOW
+https://live.glturk.workers.dev/?ID=https://www.nowtv.com.tr/canli-yayin
+#EXTINF:0,NOW DIZI KISKANMAK 20.BOLUM
+https://live.glturk.workers.dev/?ID=https://www.nowtv.com.tr/Kiskanmak/bolum/20
+#EXTINF:0,HALK
+https://live.glturk.workers.dev/?ID=https://halktv.com.tr/canli-yayin
+#EXTINF:0,Kanal 7
+https://live.glturk.workers.dev/?ID=https://www.kanal7.com/canli-yayin-iframe.php
+#EXTINF:0,Kanal 7 AVRUPA
+https://live.glturk.workers.dev/?ID=https://www.kanal7avrupa.com/canli-yayin-iframe-avrupa.php
+#EXTINF:0,CINE 5
+https://live.glturk.workers.dev/?ID=https://www.cine5tv.com
+#EXTINF:0,CINE 1
+https://live.glturk.workers.dev/?ID=https://www.cine1.com.tr
+#EXTINF:0,TeleON
+https://live.glturk.workers.dev/?ID=https://teleontv.at.ua/canliyayin.html
+#EXTINF:0,Power TV
+https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powertv/
+#EXTINF:0,PowerTürk
+https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powerturktv/
+#EXTINF:0,Power Dance TV
+https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powerdancetv/
+#EXTINF:0,Power Love TV
+https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powerlovetv/
+#EXTINF:0,PowerTürk Akustik TV
+https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powerturkakustiktv/
+#EXTINF:0,PowerTürk Slow TV
+https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powertrslowtv/
+#EXTINF:0,PowerTürk Taptaze TV
+https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powerturktaptazetv/
+#EXTINF:0,DreamTürk
+https://live.glturk.workers.dev/?ID=https://www.dreamturk.com.tr/actions/content/media/566ab958980ea810b4658d96
