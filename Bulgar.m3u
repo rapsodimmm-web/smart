@@ -200,39 +200,27 @@ https://live.bulgariatv.workers.dev/?ID=discoverychannel
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="National Geographic" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/ng.png" group-title="Belgesel",National Geographic
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=nationalgeographic
-#EXTINF:-1 tvg-id="premiumchannel12" tvg-name="Premium Channel 12" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 12
+#EXTINF:-1 tvg-id="diemasport" tvg-name="Diema Sport" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Diema Sport
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel12
-#EXTINF:-1 tvg-id="premiumchannel11" tvg-name="Premium Channel 11" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 11
+https://live.bulgariatv.workers.dev/?ID=diemasport
+#EXTINF:-1 tvg-id="diemasport2" tvg-name="Diema Sport 2" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Diema Sport 2
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel11
-#EXTINF:-1 tvg-id="premiumchannel10" tvg-name="Premium Channel 10" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 10
+https://live.bulgariatv.workers.dev/?ID=diemasport2
+#EXTINF:-1 tvg-id="diemasport3" tvg-name="Diema Sport 3" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Diema Sport 3
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel10
-#EXTINF:-1 tvg-id="premiumchannel9" tvg-name="Premium Channel 9" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 9
+https://live.bulgariatv.workers.dev/?ID=diemasport3
+#EXTINF:-1 tvg-id="maxsport1" tvg-name="Max Sport 1" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Max Sport 1
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel9
-#EXTINF:-1 tvg-id="premiumchannel8" tvg-name="Premium Channel 8" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 8
+https://live.bulgariatv.workers.dev/?ID=maxsport1
+#EXTINF:-1 tvg-id="maxsport2" tvg-name="Max Sport 2" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Max Sport 2
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel8
-#EXTINF:-1 tvg-id="premiumchannel7" tvg-name="Premium Channel 7" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 7
+https://live.bulgariatv.workers.dev/?ID=maxsport2
+#EXTINF:-1 tvg-id="maxsport3" tvg-name="Max Sport 3" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Max Sport 3
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel7
-#EXTINF:-1 tvg-id="premiumchannel6" tvg-name="Premium Channel 6" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 6
+https://live.bulgariatv.workers.dev/?ID=maxsport3
+#EXTINF:-1 tvg-id="maxsport4" tvg-name="Max Sport 4" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Max Sport 4
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel6
-#EXTINF:-1 tvg-id="premiumchannel5" tvg-name="Premium Channel 5" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 5
+https://live.bulgariatv.workers.dev/?ID=maxsport4
+#EXTINF:-1 tvg-id="novasport" tvg-name="Nova Sport" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Nova Sport
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel5
-#EXTINF:-1 tvg-id="premiumchannel4" tvg-name="Premium Channel 4" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 4
-#EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel4
-#EXTINF:-1 tvg-id="premiumchannel3" tvg-name="Premium Channel 3" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 3
-#EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel3
-#EXTINF:-1 tvg-id="premiumchannel2" tvg-name="Premium Channel 2" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium Channel 2
-#EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel2
-#EXTINF:-1 tvg-id="premiumchannel1" tvg-name="Premium channel 1" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Premium channel 1
-#EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=premiumchannel1
+https://live.bulgariatv.workers.dev/?ID=novasport
