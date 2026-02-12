@@ -200,27 +200,27 @@ https://live.bulgariatv.workers.dev/?ID=discoverychannel
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="National Geographic" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/ng.png" group-title="Belgesel",National Geographic
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=nationalgeographic
-#EXTINF:-1 tvg-id="diemasport" tvg-name="Diema Sport" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Diema Sport
+#EXTINF:-1 tvg-id="diemasport" tvg-name="Diema Sport" tvg-logo="https://www.gledaitv.fan/upload/tv/o_diema-sport-logo_20240819161622.png" group-title="Premium",Diema Sport
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=diemasport
-#EXTINF:-1 tvg-id="diemasport2" tvg-name="Diema Sport 2" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Diema Sport 2
+#EXTINF:-1 tvg-id="diemasport2" tvg-name="Diema Sport 2" tvg-logo="https://www.gledaitv.fan/upload/tv/o_diema-sport-2-logo_20240819161729.png" group-title="Premium",Diema Sport 2
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=diemasport2
-#EXTINF:-1 tvg-id="diemasport3" tvg-name="Diema Sport 3" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Diema Sport 3
+#EXTINF:-1 tvg-id="diemasport3" tvg-name="Diema Sport 3" tvg-logo="https://www.gledaitv.fan/upload/tv/o_diema-sport-3-logo_20240819161836.png" group-title="Premium",Diema Sport 3
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=diemasport3
-#EXTINF:-1 tvg-id="maxsport1" tvg-name="Max Sport 1" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Max Sport 1
+#EXTINF:-1 tvg-id="maxsport1" tvg-name="Max Sport 1" tvg-logo="https://www.gledaitv.fan/upload/tv/o_max-sport-1-logo_20240820143530.png" group-title="Premium",Max Sport 1
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=maxsport1
-#EXTINF:-1 tvg-id="maxsport2" tvg-name="Max Sport 2" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Max Sport 2
+#EXTINF:-1 tvg-id="maxsport2" tvg-name="Max Sport 2" tvg-logo="https://www.gledaitv.fan/upload/tv/o_max-sport-2-logo_20240820143632.png" group-title="Premium",Max Sport 2
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=maxsport2
-#EXTINF:-1 tvg-id="maxsport3" tvg-name="Max Sport 3" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Max Sport 3
+#EXTINF:-1 tvg-id="maxsport3" tvg-name="Max Sport 3" tvg-logo="https://www.gledaitv.fan/upload/tv/o_max-sport-3-logo_20240820143807.png" group-title="Premium",Max Sport 3
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=maxsport3
-#EXTINF:-1 tvg-id="maxsport4" tvg-name="Max Sport 4" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Max Sport 4
+#EXTINF:-1 tvg-id="maxsport4" tvg-name="Max Sport 4" tvg-logo="https://www.gledaitv.fan/upload/tv/o_max-sport-4-logo_20240820143917.png" group-title="Premium",Max Sport 4
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=maxsport4
-#EXTINF:-1 tvg-id="novasport" tvg-name="Nova Sport" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/premium.png" group-title="Premium",Nova Sport
+#EXTINF:-1 tvg-id="novasport" tvg-name="Nova Sport" tvg-logo="https://www.gledaitv.fan/upload/tv/o_nova-sport-logo_20240820145156.png" group-title="Premium",Nova Sport
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=novasport
