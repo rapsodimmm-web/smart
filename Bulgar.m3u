@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btv-8.png" group-title="Ulusal",BTV
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=btv
-#EXTINF:-1 tvg-id="bnt1" tvg-name="BNT 1" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnt.png" group-title="Ulusal",BNT 1
+#EXTINF:-1 tvg-id="bnt" tvg-name="BNT 1" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnt.png" group-title="Ulusal",BNT 1
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=bnt1
+https://live.bulgariatv.workers.dev/?ID=bnt
 #EXTINF:-1 tvg-id="bnt2" tvg-name="BNT 2" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnt2.png" group-title="Ulusal",BNT 2
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=bnt2
@@ -218,5 +218,6 @@ https://live.bulgariatv.workers.dev/?ID=maxsport4
 #EXTINF:-1 tvg-id="novasport" tvg-name="Nova Sport" tvg-logo="https://www.gledaitv.fan/upload/tv/o_nova-sport-logo_20240820145156.png" group-title="Premium",Nova Sport
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=novasport
+
 
 
