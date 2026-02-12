@@ -13,10 +13,10 @@ https://live.bulgariatv.workers.dev/?ID=bnt2
 https://live.bulgariatv.workers.dev/?ID=bnt3
 #EXTINF:-1 tvg-id="novatv" tvg-name="Nova Tv" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/nova-1.png" group-title="Ulusal",Nova Tv
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=novatv
+https://live.bulgariatv.workers.dev/?ID=nova
 #EXTINF:-1 tvg-id="codefashiontv" tvg-name="Code Fashion Tv" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/code_fashion.png" group-title="Genel",Code Fashion Tv
 #EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=codefashiontv
+https://live.bulgariatv.workers.dev/?ID=24kitchen
 #EXTINF:-1 tvg-id="investigationdiscovery" tvg-name="Investigation Discovery" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/idx-6-14.png" group-title="Genel",Investigation Discovery
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=idx
@@ -218,6 +218,3 @@ https://live.bulgariatv.workers.dev/?ID=maxsport4
 #EXTINF:-1 tvg-id="novasport" tvg-name="Nova Sport" tvg-logo="https://www.gledaitv.fan/upload/tv/o_nova-sport-logo_20240820145156.png" group-title="Premium",Nova Sport
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=novasport
-
-
-
