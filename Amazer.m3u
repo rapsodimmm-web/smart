@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ETV" tvg-logo="https://amazertv.com/assets/img/channels/channel_etv.png",ETV
+http://live.amazertv.workers.dev/?ID=etv&CDN=1
+#EXTINF:-1 tvg-name="Kanal2" tvg-logo="https://amazertv.com/assets/img/channels/channel_kanal2.png",Kanal2
+http://live.amazertv.workers.dev/?ID=kanal2&CDN=1
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv3.png",TV3
+http://live.amazertv.workers.dev/?ID=tv3&CDN=1
+#EXTINF:-1 tvg-name="TV6" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv6.png",TV6
+http://live.amazertv.workers.dev/?ID=tv6&CDN=2
+#EXTINF:-1 tvg-name="ETV2" tvg-logo="https://amazertv.com/assets/img/channels/channel_etv2.png",ETV2
+http://live.amazertv.workers.dev/?ID=etv2&CDN=1
+#EXTINF:-1 tvg-name="ETV+ HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_etvplusshd.png",ETV+ HD
+http://live.amazertv.workers.dev/?ID=etvplusshd&CDN=1
+#EXTINF:-1 tvg-name="Duo4" tvg-logo="https://amazertv.com/assets/img/channels/channel_kanal11.png",Duo4
+http://live.amazertv.workers.dev/?ID=kanal11&CDN=1
+#EXTINF:-1 tvg-name="Duo5" tvg-logo="https://amazertv.com/assets/img/channels/channel_kanal12.png",Duo5
+http://live.amazertv.workers.dev/?ID=kanal12&CDN=1
+#EXTINF:-1 tvg-name="Eesti Kanal" tvg-logo="https://amazertv.com/assets/img/channels/channel_eestikanal.png",Eesti Kanal
+http://live.amazertv.workers.dev/?ID=eestikanal&CDN=1
+#EXTINF:-1 tvg-name="TV3 life" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv3life.png",TV3 life
+http://live.amazertv.workers.dev/?ID=tv3life&CDN=1
+#EXTINF:-1 tvg-name="FOX" tvg-logo="https://amazertv.com/assets/img/channels/channel_fox.png",FOX
+http://live.amazertv.workers.dev/?ID=fox&CDN=1
+#EXTINF:-1 tvg-name="Foxlife" tvg-logo="https://amazertv.com/assets/img/channels/channel_foxlife.png",Foxlife
+http://live.amazertv.workers.dev/?ID=foxlife&CDN=1
+#EXTINF:-1 tvg-name="DUO 3" tvg-logo="https://amazertv.com/assets/img/channels/channel_sony.png",DUO 3
+http://live.amazertv.workers.dev/?ID=sony&CDN=1
+#EXTINF:-1 tvg-name="DUO 6" tvg-logo="https://amazertv.com/assets/img/channels/channel_sonyturbo.png",DUO 6
+http://live.amazertv.workers.dev/?ID=sonyturbo&CDN=1
+#EXTINF:-1 tvg-name="Sky Movies Witness HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymovieswitnesshd.png",Sky Movies Witness HD
+http://live.amazertv.workers.dev/?ID=skymovieswitnesshd&CDN=5
+#EXTINF:-1 tvg-name="Viasat nature" tvg-logo="https://amazertv.com/assets/img/channels/channel_viasatnature.png",Viasat nature
+http://live.amazertv.workers.dev/?ID=viasatnature&CDN=1
+#EXTINF:-1 tvg-name="History" tvg-logo="https://amazertv.com/assets/img/channels/channel_history.png",History
+http://live.amazertv.workers.dev/?ID=historyhd&CDN=2
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://amazertv.com/assets/img/channels/channel_discovery.png",Discovery
+http://live.amazertv.workers.dev/?ID=discovery&CDN=2
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://amazertv.com/assets/img/channels/channel_investigation.png",Investigation Discovery
+http://live.amazertv.workers.dev/?ID=investigation&CDN=2
+#EXTINF:-1 tvg-name="Crime+Inv HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_crimeplusinvhd.png",Crime+Inv HD
+http://live.amazertv.workers.dev/?ID=crimeplusinvhd&CDN=5
+#EXTINF:-1 tvg-name="Tlc" tvg-logo="https://amazertv.com/assets/img/channels/channel_tlc.png",Tlc
+http://live.amazertv.workers.dev/?ID=tlc&CDN=1
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://amazertv.com/assets/img/channels/channel_animal.png",Animal Planet
+http://live.amazertv.workers.dev/?ID=animalhd&CDN=2
+#EXTINF:-1 tvg-name="National Geo" tvg-logo="https://amazertv.com/assets/img/channels/channel_nationalgeo.png",National Geo
+http://live.amazertv.workers.dev/?ID=nationalgeo&CDN=1
+#EXTINF:-1 tvg-name="Viasat History" tvg-logo="https://amazertv.com/assets/img/channels/channel_viahistory.png",Viasat History
+http://live.amazertv.workers.dev/?ID=viahistory&CDN=1
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-logo="https://amazertv.com/assets/img/channels/channel_viaexplore.png",Viasat Explore
+http://live.amazertv.workers.dev/?ID=viaexplore&CDN=1
+#EXTINF:-1 tvg-name="Smartzone" tvg-logo="https://amazertv.com/assets/img/channels/channel_smartzone.png",Smartzone
+http://live.amazertv.workers.dev/?ID=smartzone&CDN=1
+#EXTINF:-1 tvg-name="Pingviiniukas" tvg-logo="https://amazertv.com/assets/img/channels/channel_pingviiniukas.png",Pingviiniukas
+http://live.amazertv.workers.dev/?ID=pingviiniukas&CDN=2
+#EXTINF:-1 tvg-name="BabyTV" tvg-logo="https://amazertv.com/assets/img/channels/channel_babytv.png",BabyTV
+http://live.amazertv.workers.dev/?ID=babytv&CDN=5
+#EXTINF:-1 tvg-name="SKY SHOWCASE FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skyshowcasehd.png",SKY SHOWCASE FHD
+http://live.amazertv.workers.dev/?ID=skyshowcasehd&CDN=1
+#EXTINF:-1 tvg-name="PREMIER SPORT 1 FHD (UK)" tvg-logo="https://amazertv.com/assets/img/channels/channel_premiersport1hd.png",PREMIER SPORT 1 FHD (UK)
+http://live.amazertv.workers.dev/?ID=premiersport1hd&CDN=1
+#EXTINF:-1 tvg-name="PREMIER SPORT 2 FHD (UK)" tvg-logo="https://amazertv.com/assets/img/channels/channel_premiersport2hd.png",PREMIER SPORT 2 FHD (UK)
+http://live.amazertv.workers.dev/?ID=premiersport2hd&CDN=1
+#EXTINF:-1 tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skysportscrickethd.png",SKY SPORTS CRICKET HD
+http://live.amazertv.workers.dev/?ID=skysportscrickethd&CDN=1
+#EXTINF:-1 tvg-name="CBBC FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_cbbchd.png",CBBC FHD
+http://live.amazertv.workers.dev/?ID=cbbchd&CDN=1
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://amazertv.com/assets/img/channels/channel_cnn.png",CNN
+http://live.amazertv.workers.dev/?ID=cnn&CDN=5
+#EXTINF:-1 tvg-name="CNBC Europe HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_cnbceuropehd.png",CNBC Europe HD
+http://live.amazertv.workers.dev/?ID=cnbceuropehd&CDN=5
+#EXTINF:-1 tvg-name="Euronews HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_euronewshd.png",Euronews HD
+http://live.amazertv.workers.dev/?ID=euronewshd&CDN=2
+#EXTINF:-1 tvg-name="BBC" tvg-logo="https://amazertv.com/assets/img/channels/channel_bbc.png",BBC
+http://live.amazertv.workers.dev/?ID=bbc&CDN=2
+#EXTINF:-1 tvg-name="Kidzone Mini HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_kidzoneminihd.png",Kidzone Mini HD
+http://live.amazertv.workers.dev/?ID=kidzoneminihd&CDN=2
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://amazertv.com/assets/img/channels/channel_nickelodeon.png",Nickelodeon
+http://live.amazertv.workers.dev/?ID=nickelodeon&CDN=5
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://amazertv.com/assets/img/channels/channel_cartoon.png",Cartoon Network
+http://live.amazertv.workers.dev/?ID=cartoon&CDN=2
+#EXTINF:-1 tvg-name="CBeebies HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_cbeebieshd.png",CBeebies HD
+http://live.amazertv.workers.dev/?ID=cbeebieshd&CDN=5
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://amazertv.com/assets/img/channels/channel_disneychannel.png",Disney Channel
+http://live.amazertv.workers.dev/?ID=disneychannel&CDN=1
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://amazertv.com/assets/img/channels/channel_disneyjunior.png",Disney Junior
+http://live.amazertv.workers.dev/?ID=disneyjunior&CDN=1
+#EXTINF:-1 tvg-name="Sky Kids" tvg-logo="https://amazertv.com/assets/img/channels/channel_skykidsfhd.png",Sky Kids
+http://live.amazertv.workers.dev/?ID=skykidsfhd&CDN=5
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://amazertv.com/assets/img/channels/channel_nickjrfhd.png",Nick Jr
+http://live.amazertv.workers.dev/?ID=nickjrfhd&CDN=5
+#EXTINF:-1 tvg-name="Boomerang FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_boomerangfhd.png",Boomerang FHD
+http://live.amazertv.workers.dev/?ID=boomerangfhd&CDN=1
+#EXTINF:-1 tvg-name="Filmzone" tvg-logo="https://amazertv.com/assets/img/channels/channel_filmzone.png",Filmzone
+http://live.amazertv.workers.dev/?ID=filmzone&CDN=2
+#EXTINF:-1 tvg-name="Filmzone+" tvg-logo="https://amazertv.com/assets/img/channels/channel_filmzoneplus.png",Filmzone+
+http://live.amazertv.workers.dev/?ID=filmzoneplus&CDN=2
+#EXTINF:-1 tvg-name="TV1000" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv1000.png",TV1000
+http://live.amazertv.workers.dev/?ID=tv1000&CDN=2
+#EXTINF:-1 tvg-name="TV1000 Action" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv1000action.png",TV1000 Action
+http://live.amazertv.workers.dev/?ID=tv1000action&CDN=2
+#EXTINF:-1 tvg-name="TV1000 Premium" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv1000premium.png",TV1000 Premium
+http://live.amazertv.workers.dev/?ID=tv1000premium&CDN=2
+#EXTINF:-1 tvg-name="TV1000 World Kino" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv1000russiakino.png",TV1000 World Kino
+http://live.amazertv.workers.dev/?ID=tv1000russiakino&CDN=2
+#EXTINF:-1 tvg-name="Sky History FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skyhistoryfhd.png",Sky History FHD
+http://live.amazertv.workers.dev/?ID=skyhistoryfhd&CDN=1
+#EXTINF:-1 tvg-name="Sky History H2 FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skyhistoryh2fhd.png",Sky History H2 FHD
+http://live.amazertv.workers.dev/?ID=skyhistoryh2fhd&CDN=1
+#EXTINF:-1 tvg-name="Sky Documentaries FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skydocumentariesfhd.png",Sky Documentaries FHD
+http://live.amazertv.workers.dev/?ID=skydocumentariesfhd&CDN=1
+#EXTINF:-1 tvg-name="Sky Cinema Greats FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skycinemagreatsfhd.png",Sky Cinema Greats FHD
+http://live.amazertv.workers.dev/?ID=skycinemagreatsfhd&CDN=5
+#EXTINF:-1 tvg-name="Sky Cinema Animation" tvg-logo="https://amazertv.com/assets/img/channels/channel_skycinemaanimationhd.png",Sky Cinema Animation
+http://live.amazertv.workers.dev/?ID=skycinemaanimationhd&CDN=5
+#EXTINF:-1 tvg-name="Sky Movies Drama HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviesdramahd.png",Sky Movies Drama HD
+http://live.amazertv.workers.dev/?ID=skymoviesdramahd&CDN=5
+#EXTINF:-1 tvg-name="Sky Movies Hits HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymovieshitshd.png",Sky Movies Hits HD
+http://live.amazertv.workers.dev/?ID=skymovieshitshd&CDN=5
+#EXTINF:-1 tvg-name="Sky Movies Premiere HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviespremierehd.png",Sky Movies Premiere HD
+http://live.amazertv.workers.dev/?ID=skymoviespremierehd&CDN=5
+#EXTINF:-1 tvg-name="Sky Movies SciFi & Hor HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviesscifihd.png",Sky Movies SciFi & Hor HD
+http://live.amazertv.workers.dev/?ID=skymoviesscifihd&CDN=5
+#EXTINF:-1 tvg-name="Sky Movies Thriller HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviesthrillerhd.png",Sky Movies Thriller HD
+http://live.amazertv.workers.dev/?ID=skymoviesthrillerhd&CDN=5
+#EXTINF:-1 tvg-name="Sky Movies Action HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skymoviesactiondhd.png",Sky Movies Action HD
+http://live.amazertv.workers.dev/?ID=skymoviesactiondhd&CDN=5
+#EXTINF:-1 tvg-name="TVPlay Sports" tvg-logo="https://amazertv.com/assets/img/channels/channel_viasatsportbaltic.png",TVPlay Sports
+http://live.amazertv.workers.dev/?ID=viasatsportbaltic&CDN=1
+#EXTINF:-1 tvg-name="TVPlay Sports Plus HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_tvplaysportsplushd.png",TVPlay Sports Plus HD
+http://live.amazertv.workers.dev/?ID=tvplaysportsplushd&CDN=1
+#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://amazertv.com/assets/img/channels/channel_eurosport1.png",Eurosport
+http://live.amazertv.workers.dev/?ID=eurosport1hd&CDN=1
+#EXTINF:-1 tvg-name="Eurosport2" tvg-logo="https://amazertv.com/assets/img/channels/channel_eurosport2.png",Eurosport2
+http://live.amazertv.workers.dev/?ID=eurosport2&CDN=2
+#EXTINF:-1 tvg-name="Sky Sports Mix HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skysportsmixhd.png",Sky Sports Mix HD
+http://live.amazertv.workers.dev/?ID=skysportsmixhd&CDN=5
+#EXTINF:-1 tvg-name="Sky Sports Premier League HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skyportspremierleaguehd.png",Sky Sports Premier League HD
+http://live.amazertv.workers.dev/?ID=skyportspremierleaguehd&CDN=5
+#EXTINF:-1 tvg-name="Sky Sports Golf HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skysportsgolfhd.png",Sky Sports Golf HD
+http://live.amazertv.workers.dev/?ID=skysportsgolfhd&CDN=5
+#EXTINF:-1 tvg-name="Sky Sports F1 HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skysportsf1hd.png",Sky Sports F1 HD
+http://live.amazertv.workers.dev/?ID=skysportsf1hd&CDN=5
+#EXTINF:-1 tvg-name="TNT SPORTS 1 FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_btsports1hd.png",TNT SPORTS 1 FHD
+http://live.amazertv.workers.dev/?ID=btsports1hd&CDN=5
+#EXTINF:-1 tvg-name="TNT SPORTS 2 FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_btsports2hd.png",TNT SPORTS 2 FHD
+http://live.amazertv.workers.dev/?ID=btsports2hd&CDN=5
+#EXTINF:-1 tvg-name="TNT SPORTS 3 FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_btsports3hd.png",TNT SPORTS 3 FHD
+http://live.amazertv.workers.dev/?ID=btsports3hd&CDN=5
+#EXTINF:-1 tvg-name="TNT SPORTS ESPN FHD" tvg-logo="https://amazertv.com/assets/img/channels/channel_btsportsespnhd.png",TNT SPORTS ESPN FHD
+http://live.amazertv.workers.dev/?ID=btsportsespnhd&CDN=1
+#EXTINF:-1 tvg-name="Channel 4 HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_channel4hd.png",Channel 4 HD
+http://live.amazertv.workers.dev/?ID=channel4hd&CDN=5
+#EXTINF:-1 tvg-name="MTV Rocks" tvg-logo="https://amazertv.com/assets/img/channels/channel_mtvrocks.png",MTV Rocks
+http://live.amazertv.workers.dev/?ID=mtvrocks&CDN=1
+#EXTINF:-1 tvg-name="MTV Europe" tvg-logo="https://amazertv.com/assets/img/channels/channel_mtveurope.png",MTV Europe
+http://live.amazertv.workers.dev/?ID=mtveurope&CDN=1
+#EXTINF:-1 tvg-name="MTV Club" tvg-logo="https://amazertv.com/assets/img/channels/channel_clubmtv.png",MTV Club
+http://live.amazertv.workers.dev/?ID=clubmtv&CDN=1
+#EXTINF:-1 tvg-name="MyHits HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_myhitshd.png",MyHits HD
+http://live.amazertv.workers.dev/?ID=myhitshd&CDN=1
+#EXTINF:-1 tvg-name="Pro 7" tvg-logo="https://amazertv.com/assets/img/channels/channel_pro7.png",Pro 7
+http://live.amazertv.workers.dev/?ID=pro7&CDN=2
+#EXTINF:-1 tvg-name="Yle TV 1" tvg-logo="https://amazertv.com/assets/img/channels/channel_yletv1.png",Yle TV 1
+http://live.amazertv.workers.dev/?ID=yletv1&CDN=2
+#EXTINF:-1 tvg-name="Yle TV 2" tvg-logo="https://amazertv.com/assets/img/channels/channel_yletv2.png",Yle TV 2
+http://live.amazertv.workers.dev/?ID=yletv2&CDN=2
+#EXTINF:-1 tvg-name="Film4 HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_film4hd.png",Film4 HD
+http://live.amazertv.workers.dev/?ID=film4hd&CDN=5
+#EXTINF:-1 tvg-name="BBC One HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_bbconehd.png",BBC One HD
+http://live.amazertv.workers.dev/?ID=bbconehd&CDN=2
+#EXTINF:-1 tvg-name="BBC Two HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_bbctwohd.png",BBC Two HD
+http://live.amazertv.workers.dev/?ID=bbctwohd&CDN=5
+#EXTINF:-1 tvg-name="Dave HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_davehd.png",Dave HD
+http://live.amazertv.workers.dev/?ID=davehd&CDN=5
+#EXTINF:-1 tvg-name="GOLD HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_goldhd.png",GOLD HD
+http://live.amazertv.workers.dev/?ID=goldhd&CDN=5
+#EXTINF:-1 tvg-name="ComedyCentral HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_comedycentralhd.png",ComedyCentral HD
+http://live.amazertv.workers.dev/?ID=comedycentralhd&CDN=5
+#EXTINF:-1 tvg-name="Sky Comedy HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_skycomedyhd.png",Sky Comedy HD
+http://live.amazertv.workers.dev/?ID=skycomedyhd&CDN=5
+#EXTINF:-1 tvg-name="TV3 plus HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_tv3plushd.png",TV3 plus HD
+http://live.amazertv.workers.dev/?ID=tv3plushd&CDN=1
+#EXTINF:-1 tvg-name="1+2" tvg-logo="https://amazertv.com/assets/img/channels/channel_1plus2.png",1+2
+http://live.amazertv.workers.dev/?ID=1plus2&CDN=1
+#EXTINF:-1 tvg-name="Private TV" tvg-logo="https://amazertv.com/assets/img/channels/channel_privatetv.png",Private TV
+http://live.amazertv.workers.dev/?ID=privatetv&CDN=2
+#EXTINF:-1 tvg-name="Brazzers TV" tvg-logo="https://amazertv.com/assets/img/channels/channel_brazzerstv.png",Brazzers TV
+http://live.amazertv.workers.dev/?ID=brazzerstv&CDN=2
+#EXTINF:-1 tvg-name="Hustler TV" tvg-logo="https://amazertv.com/assets/img/channels/channel_hustlertv.png",Hustler TV
+http://live.amazertv.workers.dev/?ID=hustlertv&CDN=2
+#EXTINF:-1 tvg-name="Vivid RED HD" tvg-logo="https://amazertv.com/assets/img/channels/channel_vividredhd.png",Vivid RED HD
+http://live.amazertv.workers.dev/?ID=vividredhd&CDN=2
