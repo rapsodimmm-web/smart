@@ -2,8 +2,8 @@ name: YouTube Liste Guncelleyici
 
 on:
   schedule:
-    - cron: "0 */5 * * *"
-  workflow_dispatch:
+    - cron: "0 */5 * * *" # Her 5 saatte bir çalışır
+  workflow_dispatch:      # Manuel tetikleme için
 
 jobs:
   update-json:
@@ -16,19 +16,23 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Veriyi Cek
-        run: curl -L -k -s "https://live.weebtv.workers.dev/" -o YouTube.json
+        # -f hata durumunda (404, 500 vb.) curl'ün hata kodu döndürmesini sağlar
+        run: curl -L -k -s -f "https://live.weebtv.workers.dev/" -o YouTube.json
 
-      - name: Dosya Kontrol
+      - name: Dosya Kontrol ve Hata Ayıklama
         run: |
           if [ ! -s YouTube.json ]; then
-            echo "HATA: Veri cekilemedi!"
+            echo "HATA: YouTube.json dosyası boş veya oluşturulamadı!"
+            ls -lh # Mevcut dosyaları listele (hata ayıklama için)
             exit 1
           fi
+          echo "Dosya başarıyla çekildi. Boyut: $(stat -c%s YouTube.json) byte."
 
       - name: Kaydet ve Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add YouTube.json
-          git commit -m "Oto Guncelleme: $(date)" || exit 0
+          # Değişiklik yoksa hata vermeden geçmesi için '|| echo' ekledik
+          git commit -m "Oto Guncelleme: $(date)" || echo "Değişiklik yok, commit atılmadı."
           git push origin main
