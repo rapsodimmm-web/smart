@@ -16,12 +16,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Veriyi Cek
-        run: curl -L -k "https://live.weebtv.workers.dev/" -o YouTube.json
+        run: |
+          # URL_BURAYA yazısını sildim, doğrudan senin linkini ekledim
+          curl -L -k -s "https://live.weebtv.workers.dev/" -o YouTube.json
 
       - name: Dosya Kontrol
         run: |
           if [ ! -s YouTube.json ]; then
-            echo "Dosya bos veya cekilemedi"
+            echo "HATA: Veri cekilemedi, dosya bos!"
             exit 1
           fi
 
@@ -30,5 +32,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add YouTube.json
-          git commit -m "Oto Guncelleme: $(date)" || exit 0
+          git commit -m "Update: $(date)" || exit 0
           git push origin main
