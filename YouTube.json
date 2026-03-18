@@ -1,1 +1,41 @@
-[]
+
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <meta charset="UTF-8">
+        <style>
+          body { 
+            background: #000; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh; 
+            margin: 0;
+          }
+          .yanip-sonen {
+            font-family: sans-serif;
+            font-size: 40px;
+            font-weight: bold;
+            text-align: center;
+            animation: renkDegistir 0.5s infinite alternate, yanSon 0.8s infinite;
+          }
+          @keyframes renkDegistir {
+            0% { color: red; }
+            25% { color: yellow; }
+            50% { color: blue; }
+            75% { color: green; }
+            100% { color: magenta; }
+          }
+          @keyframes yanSon {
+            0% { opacity: 1; }
+            100% { opacity: 0; }
+          }
+        </style>
+      </head>
+      <body>
+        <div class="yanip-sonen">
+          KIYMET BİLMEYENLER KAYBETTİKLERİNDE ANLAR
+        </div>
+      </body>
+      </html>
+    
